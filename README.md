@@ -14,14 +14,3 @@ Il tuo obiettivo è creare un programma che segua queste regole:
 
 4. **L'Unione Epica - "FooBar":** E per i numeri che sono multipli sia di 3 che di 5? Qui entra in gioco "FooBar", combinando la potenza di entrambi.
 
-### 💻 **Sfida di Codifica:**
-
-Questa è una sfida per veri coder. Sei in grado di creare un programma così elegante e funzionale? È tempo di far vedere di cosa sei capace!
-
-### 🌟 **Bonus:**
-
-Per chi vuole andare oltre, ecco una sfida aggiuntiva: Rendi il tuo codice il più pulito e efficiente possibile. Ogni linea conta. Mostra la tua abilità nel rendere il codice non solo funzionante, ma anche esteticamente piacevole.
-
----
-
-🚀 **In bocca al lupo, e che la codifica sia con te!** 🚀
